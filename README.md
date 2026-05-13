@@ -5,8 +5,38 @@ A desktop-based **Employee Management System** built with **Java Swing** and **M
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-> *(Add screenshots of your application here)*
+### 🏠 Title Screen
+<img width="700" alt="Title Screen" src="https://github.com/user-attachments/assets/7114b9ab-cf44-4143-8525-17bd68e6de2a" />
+
+---
+
+### 🔐 Login Page
+<img width="700" alt="Login Page" src="https://github.com/user-attachments/assets/003ca14e-1ee5-496b-95f3-094c246a468a" />
+
+---
+
+### 🖥️ Main Dashboard
+<img width="700" alt="Main Dashboard" src="https://github.com/user-attachments/assets/932ec8af-006f-403d-9e46-bd8f87b4e8c3" />
+
+---
+
+### ➕ Add Employee
+<img width="700" alt="Add Employee" src="https://github.com/user-attachments/assets/34b2f8de-bbdb-45bf-b815-735d324313d5" />
+
+---
+
+### 🔍 View Employee
+<img width="700" alt="View Employee" src="https://github.com/user-attachments/assets/20f4e55a-a499-41d4-b342-5133ccc8e3dd" />
+
+---
+
+### 🗑️ Remove Employee
+<img width="700" alt="Remove Employee" src="https://github.com/user-attachments/assets/d5b9fb27-4089-493b-9310-cc85b2a2a491" />
+
+
+
 
 ---
 
@@ -184,7 +214,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [Vaidish-21](https://github.com/Vaidish-21)
 
 ---
 
